@@ -1,2 +1,5 @@
-# curso_dgapa
-Notas de mi curso
+# Curso DGAPA
+
+En este proyectose encuentran las prácticas de mi curso de la DGAPA
+
+Josué Vázquez Téllez :smile:
